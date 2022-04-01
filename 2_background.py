@@ -27,3 +27,7 @@ while running:
 
 #pygame 종료
 pygame.quit()
+
+#main브랜치에서 내용 수정함.
+#user1에서 수정한 내역을 main브랜치가 받아야함.
+#이때 pull 사용함.
