@@ -20,3 +20,5 @@ while running:
 
 #pygame 종료
 pygame.quit()
+
+#깃허브 실습용 추가한 텍스트..
